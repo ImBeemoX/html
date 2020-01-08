@@ -3,9 +3,20 @@ h3 {
 }
 
 .first-title {
-  color: blue;
+  color: blue !important;
 }
 
 #Youtube-link {
   color: aquamarine;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+h1 {
+  background-color: rebeccapurple;
+  margin: 100px;
 }
